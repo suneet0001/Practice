@@ -1,0 +1,2 @@
+Hello Git!
+My Git practice starts here.
